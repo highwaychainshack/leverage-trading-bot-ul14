@@ -1,4 +1,4 @@
-# 
+# premium Trading Bot for leverage trading bot | position-sizing & auto-leverage is the best leverage trading bot, featuring position-sizing and auto-leverage. Smart, fast, and
 
 
 
